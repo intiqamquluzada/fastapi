@@ -9,7 +9,6 @@ BOOKS = [
     {"title": "Title Four", "author": "Author Four", "category": "Art"},
     {"title": "Title Five", "author": "Author Five", "category": "Design"},
     {"title": "Title Six", "author": "Author Six", "category": "Science"},
-
 ]
 
 
